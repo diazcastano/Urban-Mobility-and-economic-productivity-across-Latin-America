@@ -1,7 +1,7 @@
 Como analista de datos, tu objetivo es **evaluar cómo la movilidad urbana se relaciona con la productividad económica en las principales ciudades latinoamericanas
 Para ello trabajarás con datos reales de TomTom Traffic Index y OECD Cities, que deberás limpiar, combinar y analizar para identificar en qué ciudades conviene invertir en infraestructura de transporte.
     ## importar librerías
-´´´´python
+´´´python
     import pandas as pd
     import numpy as np
     import seaborn as sns
@@ -10,8 +10,8 @@ Para ello trabajarás con datos reales de TomTom Traffic Index y OECD Cities, qu
     ## cargar archivos
 ´´´python    
 traffic = pd.read_csv('/datasets/tomtom_traffic.csv'),
-    eco = pd.read_csv('/datasets/oecd_city_economy.csv')´´´
-  },
+eco = pd.read_csv('/datasets/oecd_city_economy.csv')´´´
+
   {
    "cell_type": "code",
    "execution_count": 4,
