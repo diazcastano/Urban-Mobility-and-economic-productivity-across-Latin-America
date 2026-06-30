@@ -24,4 +24,8 @@ Evaluar si la movilidad urbana tiene relación con la productividad económica e
 7. Visualización y analisis de relaciones
 
 ## Principales hallazgos
-- No se encuentra evidencia de que el ingreso bruto per capita por ciudad tenga una incidencia directa sobre el nivel de congestión o movimiento vehicular en cada ciudad evaluada, se define que se deben analizar otros posibles factores
+- Ciudades con un ingreso PIB per cápita no se relaciona directamente con una menor o mayor nivel de congestión
+- Congestión vehicular parece estar influenciado por multiples factores además de la productividad económica
+- Planificación urbana e infraestructura de transporte puede tener un rol importante en el desarrollo de la movilidad
+
+
